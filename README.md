@@ -1,6 +1,4 @@
-OSUI
-===============
-
+# OSUI
 Otaku Schedule UI
 
 
